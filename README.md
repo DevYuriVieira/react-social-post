@@ -28,12 +28,10 @@
 - 🎛️ Interactive UI patterns
 
 ### 🚀 How to run
-### 🚀 How to run
-```bash
-git clone https://github.com/DevYuriVieira/react-social-post.git
-cd react-social-post
-npm install
-npm start
+- git clone https://github.com/DevYuriVieira/react-social-post.git
+- cd react-social-post
+- npm install
+ -npm start
 
 
 ### 🌱 Future improvements
@@ -73,10 +71,10 @@ https://github.com/DevYuriVieira
 - 🎛️ UI interativa
 
 ### 🚀 Como executar
-git clone https://github.com/DevYuriVieira/react-social-post.git
-cd react-social-post
-npm install
-npm start
+- git clone https://github.com/DevYuriVieira/react-social-post.git
+- cd react-social-post
+- npm install
+- npm start
 
 ### 🌱 Possíveis melhorias futuras
 - 📰 Feed com múltiplas postagens e scroll infinito
