@@ -1,5 +1,5 @@
-![React](https://img.shields.io/badge/React-19.2.0-blue?logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-25.2.0-brightgreen?logo=node.js)
+![React](https://img.shields.io/badge/React-18+-blue?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-18+-brightgreen?logo=node.js)
 ![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github)
 
 # ⚡📱 React Social Media Post Component ⚡📱
@@ -17,7 +17,7 @@
 
 ### 🧩 Requirements
 - 💻 Node.js (Vite officially supports 14.18+ / 16+)
-- ⚛️ React 18+ 
+- ⚛️ React 18+
 - 🎨 CSS3
 
 ### 💡 Concepts used
@@ -59,7 +59,7 @@ https://github.com/DevYuriVieira
 
 ### 🧩 Requisitos
 - 💻 Node.js (Vite oficialmente suporta 14.18+ / 16+)
-- ⚛️ React 18+ 
+- ⚛️ React 18+
 - 🎨 CSS3
 
 ### 💡 Conceitos utilizados
@@ -87,6 +87,7 @@ npm start
 ### 👨‍💻 Autor
 Yuri Vieira
 https://github.com/DevYuriVieira
+
 
 
 
